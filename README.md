@@ -1,29 +1,43 @@
-# Kline
+# Chang Yong | Kline
 
-> 复旦大学 2025 级经济学（数理经济方向）—人工智能双学位本科生  
-> Undergraduate student in Economics (Mathematical Economics) and Artificial Intelligence dual-degree program at Fudan University, Class of 2025.
+Economics. Artificial intelligence. Systematic investing.
 
-## 关于我｜About Me
+English | [中文](README.zh-CN.md)
 
-我是一名复旦大学本科生，正在修读经济学（数理经济方向）与人工智能双学位项目。  
-I am an undergraduate student at Fudan University, pursuing a dual-degree program in Economics (Mathematical Economics) and Artificial Intelligence.
+I am an undergraduate student in Fudan University's dual bachelor's degree program in Economics (Mathematical Economics) and Artificial Intelligence. My research interests lie in prediction, risk, and asset allocation in financial markets. I explore how economic questions can be translated into data-driven signals and tested in portfolio decisions.
 
-目前主页以个人学术背景为主，项目与联系方式将在合适时补充。  
-This profile currently focuses on my academic background. Projects and contact details will be added when appropriate.
+## Research
 
-## 学术背景｜Academic Background
+### CTA Multi-Asset Long–Short Strategy
 
-| 项目 | 内容 |
-| --- | --- |
-| 学校｜University | 复旦大学｜Fudan University |
-| 年级｜Class | 2025 级本科生｜Class of 2025 |
-| 专业｜Program | 经济学（数理经济方向）—人工智能双学位｜Economics （Mathematical Economics） and Artificial Intelligence dual-degree program |
+Built a systematic research framework across 37 ETFs spanning U.S. equities, international equities, fixed income, commodities, and alternative assets. The project combines six groups of features—including momentum, trend, and volatility—with monthly rolling training and evaluation of seven predictive models. Ridge was selected using validation results; portfolio construction uses Ledoit–Wolf covariance estimation and constrained optimization with risk, turnover, and exposure considerations.
 
-## 联系方式｜Contact
+### DICE Model Research
 
-暂不公开。  
-Not publicly listed for now.
+Authored a research paper through Fudan University's Jinglan Research Program on the development and contemporary relevance of the DICE model, examining its economic logic, applications, and limitations.
 
-## 个人主页｜Personal Website
+## Experience
 
-[访问我的 GitHub Pages 主页｜Visit my GitHub Pages homepage](https://klinecy.github.io/)
+**Zheshang Securities · Research Institute, Strategy Team**  
+Shanghai · Jul–Oct 2026  
+Worked across multi-asset strategy and Chinese equity research, covering institutional investment views, asset allocation frameworks, financial market models, company-case analysis, and industry profitability. Produced supporting data analysis and research reports.
+
+**Huatai United Securities · Investment Banking**  
+Beijing · Jul–Sep 2024  
+Supported capital-market and IPO research and due diligence, including industry and transaction-case analysis, fund-flow and accounting-record reviews, and client and supplier interview documentation.
+
+## Education
+
+**Fudan University · Sep 2025–Jun 2029 (expected)**  
+Dual Bachelor's Degree Program in Economics (Mathematical Economics) and Artificial Intelligence  
+GPA: 3.85/4.00
+
+Relevant coursework: Mathematical Analysis, Linear Algebra, Probability and Mathematical Statistics, Data Structures, Mathematical Foundations of Artificial Intelligence, Corporate Finance (Honors), and Game Theory (Honors).
+
+## Tools & Contact
+
+Programming: Python, C, C++  
+Research tools: Wind, Choice, Microsoft Office
+
+Email: [chnklineyon@gmail.com](mailto:chnklineyon@gmail.com)  
+Website: [klinecy.github.io](https://klinecy.github.io/)
